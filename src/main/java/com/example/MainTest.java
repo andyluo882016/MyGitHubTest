@@ -7,6 +7,6 @@ public class MainTest {
     public static void main(String[] args){//
         Showme me  = new Showme("Books", 39);
         System.out.println(" Show My GitHub Testing!!");
-        System.out.println("My Show: "+me.toString());
+        System.out.println("My Show for thirdtest branch: "+me.toString());
     }
 }
